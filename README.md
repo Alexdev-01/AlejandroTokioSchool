@@ -9,3 +9,5 @@
 
  [Mi Repositorio de prueba](https://github.com/Alexdev-01/MiPrimerRepositorio) Este es mi primer repositirio
 
+# Mis estadisticas en Github
+ [![Hua's github stats](https://github.com/AlejandroTokioSchool/MiPrimerRepositorio) Este es mi primer repositirio
