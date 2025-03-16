@@ -14,6 +14,6 @@
 
 ### Conectact
 Sieve para añadir contactor depntro del repositorio.
-[![Linkedin Badge(https://github.com/Alexdev-01/MiPrimerRepositorio)]](https://github.com/Alexdev-01/MiPrimerRepositorio)
-
+[![Linkedin Badge(https://biblioteca.ucm.es/data/cont/media/www/faq/121/Linkedln/LinkedIn-Logo.png)(https://www.linkedin.com/in/alejandro-collado-severiano-721603aa/)
+[![Gmail Badge]()
 
