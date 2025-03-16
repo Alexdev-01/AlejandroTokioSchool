@@ -16,3 +16,5 @@
 [![Linkedin Badge](https://biblioteca.ucm.es/data/cont/media/www/faq/121/Linkedln/LinkedIn-Logo.png)](https://www.linkedin.com/in/alejandro-collado-severiano-721603aa/)
 [![Gmail Badge]()
 
+[![Linkedin Badge](https://img.shields.io/badge/-Davit_Lázaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandro-collado-severiano-721603aa/)](https://www.linkedin.com/in/alejandro-collado-severiano-721603aa/)
+[![Gmail Badge](https://img.shields.io/badge/-alexx@ejemplo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexx@ejemplo.com)](mailto:alexx@ejemplo.com)
