@@ -11,3 +11,9 @@
 
 # Mis estadisticas en Github
  [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=Alexdev-01&show_icons=true&theme=radical)](https://github.com/Alexdev-01/MiPrimerRepositorio)
+
+### Conectact
+Sieve para añadir contactor depntro del repositorio.
+[![Linkedin Badge(https://github.com/Alexdev-01/MiPrimerRepositorio)]](https://github.com/Alexdev-01/MiPrimerRepositorio)
+
+
