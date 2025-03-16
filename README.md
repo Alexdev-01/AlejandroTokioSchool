@@ -10,4 +10,4 @@
  [Mi Repositorio de prueba](https://github.com/Alexdev-01/MiPrimerRepositorio) Este es mi primer repositirio
 
 # Mis estadisticas en Github
- [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=Alexdev-01&show_icons=true&theme=radical)](https://github.com/Alexdev-01/MiPrimerRepositorio)
+ [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=Alexdev-01&show_icons=true&theme=radical)]
