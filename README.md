@@ -14,6 +14,6 @@
 
 ### Conectact
 Sieve para añadir contactor depntro del repositorio.
-[![Linkedin Badge([https://biblioteca.ucm.es/data/cont/media/www/faq/121/Linkedln/LinkedIn-Logo.png](https://biblioteca.ucm.es/data/cont/media/www/faq/121/Linkedln/LinkedIn-Logo.png))(https://www.linkedin.com/in/alejandro-collado-severiano-721603aa/)
+[![Linkedin Badge](https://biblioteca.ucm.es/data/cont/media/www/faq/121/Linkedln/LinkedIn-Logo.png)](https://www.linkedin.com/in/alejandro-collado-severiano-721603aa/)
 [![Gmail Badge]()
 
